@@ -1,6 +1,6 @@
 
 
-<img src="https://panapooo.files.wordpress.com/2016/06/large.gif" alt="riyagshah" />
+<img style="height=40px"src="https://panapooo.files.wordpress.com/2016/06/large.gif" alt="riyagshah" />
 <h1 align="center">Hi 👋, I'm RIYA GIRISH SHAH</h1>
 <h3 align="center">FULL STACK MERN DEVELOPER</h3>
 
