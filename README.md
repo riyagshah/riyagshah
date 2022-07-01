@@ -1,5 +1,5 @@
 
-<p align="left"> <img src="https://data.whicdn.com/images/197123065/original.gif" alt="riyagshah" /> </p>
+<p align="left"> <img src="https://data.whicdn.com/images/197123065/original.gif" /> </p>
 <h1 align="center">Hi 👋, I'm RIYA GIRISH SHAH</h1>
 <h3 align="center">FULL STACK MERN DEVELOPER</h3>
 
