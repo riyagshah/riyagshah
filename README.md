@@ -1,8 +1,7 @@
-### Hi there 👋
 
 
 [![MasterHead](https://c.tenor.com/XgAG1LXjpcYAAAAd/apartamento-qualquer-banner-banner.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm RICHA SHAH</h1>
+<h1 align="center">Hi 👋, I'm RIYA SHAH</h1>
 <h3 align="center">MERN DEVELOPER</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richabot&label=Profile%20views&color=0e75b6&style=flat" alt="richabot" /> </p>
