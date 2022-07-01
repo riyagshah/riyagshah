@@ -4,9 +4,9 @@
 <h1 align="center">Hi 👋, I'm RIYA SHAH</h1>
 <h3 align="center">MERN DEVELOPER</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=richabot&label=Profile%20views&color=0e75b6&style=flat" alt="richabot" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=richabot" alt="richabot" /></a> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=richabot&label=Profile%20views&color=0e75b6&style=flat" alt="richabot" /> </p>
+ -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riyagshah" alt="riyagshah" /></a> </p>
 
 - 🌱 I’m currently learning **REACT MONGO DB**
 
