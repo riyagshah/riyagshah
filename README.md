@@ -1,5 +1,5 @@
 
-<p align="left"> <img src="https://data.whicdn.com/images/197123065/original.gif" /> </p>
+[![MasterHead](https://panapooo.files.wordpress.com/2016/06/large.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm RIYA GIRISH SHAH</h1>
 <h3 align="center">FULL STACK MERN DEVELOPER</h3>
 
