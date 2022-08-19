@@ -3,13 +3,11 @@
 <h1 align="center">Hi 👋, I'm RIYA GIRISH SHAH</h1>
 <h3 align="center">FULL STACK MERN DEVELOPER</h3>
 <p>🙋‍♂️ About me</p>
-<h1>I'm a MERN Developer 🚀
-Passionate about coding and strongly interested in obtaining a Software Developer
-Position to work on enhancing the product experience.
-🤔 I’m looking to collaborate with other content creators;
-🌱 I’m currently exploring Web Development;
-🤔 I’m currently open for: An Intern or a new job opportunity, this is MY RESUME.
-🤓 Always learning new things</h1>
+<h4>I'm a MERN Developer 🚀</h4>
+<h4>Passionate about coding and strongly interested in obtaining a Software Developer</h4>
+<h4>I have completed my graduation in Computer-Science engineering. </h4>
+<h4>🤔 I’m looking to collaborate with other content creators;</h4>
+<h4>🌱 I’m currently exploring Web Development;</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyagshah&label=Profile%20views&color=0e75b6&style=flat" alt="riyagshah" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riyagshah" alt="riyagshah" /></a> </p>
