@@ -4,7 +4,7 @@
 <h3 align="center">FULL STACK MERN DEVELOPER</h3>
 <p>🙋‍♂️ About me</p>
 <h4>I'm a MERN Developer 🚀</h4>
-<h4>Passionate about coding and strongly interested in obtaining a Software Developer</h4>
+<h4>Passionate about coding and strongly looking forward to work as a Software Developer</h4>
 <h4>I have completed my graduation in Computer-Science engineering. </h4>
 <h4>🤔 I’m looking to collaborate with other content creators;</h4>
 <h4>🌱 I’m currently exploring Web Development;</h4>
