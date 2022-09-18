@@ -100,7 +100,7 @@
   <img alt="Twitter" src="https://img.shields.io/badge/github-%231DA1F2.svg?&style=for-the-badge&logo=github&logoColor=white"  height="30px"/> </a>
 <!--   <a href="" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> -->
   <a href="https://www.linkedin.com/in/riya-shah-512778243/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>  
-  <a href=https://riyagshah-resume.netlify.app/" target="_blank"><img alt="portfolio" src="https://img.shields.io/badge/portfolio-E4405F?style=for-the-badge&logo=portfolio&logoColor=white"  height="30px"/></a>
+  <a href=https://riyagshah-resume.netlify.app target="_blank"><img alt="portfolio" src="https://img.shields.io/badge/portfolio-E4405F?style=for-the-badge&logo=portfolio&logoColor=white"  height="30px"/></a>
 </p>
 
 
