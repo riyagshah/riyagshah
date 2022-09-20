@@ -23,6 +23,9 @@
 
 - 🤔 I’m looking for help with `Competitive Programming`
 
+- 👯 I’m looking to collaborate for `Dev Projects`
+
+- 🤔 I’m looking for help with `Competitive Programming`
 
 
 ## 🚀 Languages and Tools:
