@@ -21,14 +21,13 @@
 
 - 👯 I’m looking to collaborate for `Dev Projects`
 
-- 🤔 I’m looking for help with `Competitive Programming`
+- 📫 How to reach me **riyagshah1234@gmail.com**
 
-- 👯 I’m looking to collaborate for `Dev Projects`
+🌱 I have recently learnt Node js, Express.js, MongoDB
 
-- 🤔 I’m looking for help with `Competitive Programming
-- 👯 I’m looking to collaborate for `Dev Projects`
+ 👨‍💻 Have a look at my [Portfolio](https://riyagshah-resume.netlify.app/)
 
-- 🤔 I’m looking for help with `Competitive Programming`
+📄 Have a look at my [Resume](https://drive.google.com/file/d/13mHFE74TuIPpzLFkkhw7JyovOmHyxOUq/view)
 
 
 ## 🚀 Languages and Tools:
