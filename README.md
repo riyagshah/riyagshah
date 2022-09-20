@@ -19,21 +19,11 @@
 <img  src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
 
-- 👉 you can get all information by clicking - <a href="https://riyagshah-resume.netlify.app/" target="_blank"> PORTFOLIO </a> 
-
-- 🔭 I’m currently working on `Something Intresting`.
-
-- 🌱 I’m currently learning `MERN Stack`
-
 - 👯 I’m looking to collaborate for `Dev Projects`
 
 - 🤔 I’m looking for help with `Competitive Programming`
 
-- 💬 Ask me about anything, Except Maths :sweat_smile:
 
-- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
-
-- ⚡ Fun fact: I waste most of my time playing games
 
 ## 🚀 Languages and Tools:
 <div align="center">
