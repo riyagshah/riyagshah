@@ -19,13 +19,13 @@
 <img  src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
 
-- 👯 I’m looking to collaborate for `Dev Projects`
+👯 I’m looking to collaborate for `Dev Projects`
 
-- 📫 How to reach me **riyagshah1234@gmail.com**
+📫 How to reach me **riyagshah1234@gmail.com**
 
 🌱 I have recently learnt Node js, Express.js, MongoDB
 
- 👨‍💻 Have a look at my [Portfolio](https://riyagshah-resume.netlify.app/)
+👨‍💻 Have a look at my [Portfolio](https://riyagshah-resume.netlify.app/)
 
 📄 Have a look at my [Resume](https://drive.google.com/file/d/13mHFE74TuIPpzLFkkhw7JyovOmHyxOUq/view)
 
