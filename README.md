@@ -25,7 +25,7 @@
 
 🌱 I have recently learnt Node js, Express.js, MongoDB
 
-👨‍💻 Have a look at my [Portfolio](https://riyagshah-resume.netlify.app/)
+👨‍💻 Have a look at my [Portfolio](https://riya-shah-portfolio.netlify.app/)
 
 📄 Have a look at my [Resume](https://drive.google.com/file/d/1wMqTx_MDOku99keMWTBMdengeRmeT6-q/view?usp=share_link)
 
